@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://teqagemucife.pages.dev/sitemap.xml
